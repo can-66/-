@@ -1,0 +1,12 @@
+release/addemployee.o
+release/cemployee.o
+release/csalary.o
+release/employeeinfotable.o
+release/main.o
+release/mainwindow.o
+release/readonlydelegate.o
+release/selectdialog.o
+release/qrc_qss.o
+release/moc_addemployee.o
+release/moc_mainwindow.o
+release/moc_selectdialog.o

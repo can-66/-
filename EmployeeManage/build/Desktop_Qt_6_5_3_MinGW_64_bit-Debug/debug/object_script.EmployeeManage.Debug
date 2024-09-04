@@ -1,0 +1,12 @@
+debug/addemployee.o
+debug/cemployee.o
+debug/csalary.o
+debug/employeeinfotable.o
+debug/main.o
+debug/mainwindow.o
+debug/readonlydelegate.o
+debug/selectdialog.o
+debug/qrc_qss.o
+debug/moc_addemployee.o
+debug/moc_mainwindow.o
+debug/moc_selectdialog.o
